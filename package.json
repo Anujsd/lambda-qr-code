@@ -1,0 +1,16 @@
+{
+  "name": "lambda-qr-code",
+  "version": "1.0.0",
+  "description": "simple qr code generator project to learn lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1483.0",
+    "qrcode": "^1.5.3"
+  }
+}
